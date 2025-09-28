@@ -4,7 +4,7 @@ Desafio de resolução de algoritmos python com copilot para familiarização do
 ## Algoritmo 1: Concatenando dados
 Concatenando dados de dois inputs separados do usuário.
 
-## Algoritmo 2: Repetindo Stings
+## Algoritmo 2: Repetindo Strings
 Repetição de strings levando em consideração espaço necessário para legibilidade.
 
 ## Algoritmo 3: Calculadora de números inteiros
