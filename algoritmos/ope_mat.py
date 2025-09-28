@@ -10,7 +10,7 @@ operacao = input("Escolha a operação (+, -, *, /): ")
 if operacao == '+':
     resultado = num1 + num2
 elif operacao == '-':
-    resultado = num1 - num2
+    resultado = (abs(num1 - num2))
 elif operacao == '*':
     resultado = num1 * num2
 elif operacao == '/':
